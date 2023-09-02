@@ -11,14 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mmadhushree" target="_blank">
+<h3> <a href="https://linkedin.com/in/mmadhushree" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     LinkedIn
-  </a>
-  <a href="https://github.com/MMadhushree" target="_blank">
+  </a></h3>
+  <h3><a href="https://github.com/MMadhushree" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
     GitHub
-  </a>
+  </a></h3>
 </p>
 
 
