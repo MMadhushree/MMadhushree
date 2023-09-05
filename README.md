@@ -1,3 +1,7 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.4/ci.min.css"
+/>
 <h1 align="center">Hi 👋, I'm Madhushree</h1>
 <h3 align="center">I am an Information Science student with a passion for using technology to solve problems. I am a good communicator, a team player, and I'm confident in making a significant contribution to any team.</h3>
 
@@ -12,16 +16,16 @@
 <h3 align="left">Connect with me:</h3>
 <span align="left">
   <a href="https://linkedin.com/in/mmadhushree" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    
     LinkedIn
   </a>
   <a href="https://github.com/MMadhushree" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+   
     GitHub
   </a>
 </span>
 
-
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="GitHub" height="30" width="40" />
 
 
 ### Languages and Tools
