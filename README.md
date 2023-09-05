@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on personal project
 
-- 🌱 I’m currently learning PHP,Data Analytics
+- 🌱 I’m currently learning PHP,Java,Python,C++,HTML,CSS,JS,Data Analytics
 
 - 📫 How to reach me madhushree10.m@gmail.com
 
